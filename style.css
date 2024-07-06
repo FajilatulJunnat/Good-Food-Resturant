@@ -67,3 +67,115 @@ border: none;
 
 margin: 23px 0px;
 }
+/* brands */
+.brands{
+
+width: 937px;
+height: 622px;
+/* left: 300px;
+top: 167px; */
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+
+
+}
+.brand-header{
+height: 123px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+margin: 34px 0px;
+}
+.brand-p{
+    width: 128px;
+height: 20px;
+margin: 12px 0px;
+opacity: 0.6;
+color: rgb(16, 16, 16);
+font-size: 17px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+}
+.brand-h{
+    height: 91px;
+    color: rgb(16, 16, 16);
+    width: 490px;
+    
+font-size: 34px;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0%;
+text-align: center;
+margin: 12px 0px;
+}
+.card-parent{
+
+height: 373px;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+margin: 34px 0px;
+}
+.card{
+    width: 301px;
+    margin: 0px 17px;
+}
+.card-img{
+    height: 201px;
+    margin: 22px 0px;
+}
+.card-body{
+height: 149px;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+margin: 22px 0px;
+}
+.btn-1{
+width: 133px;
+height: 40px;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 22px 10px 22px;
+margin: 17px 0px;
+border: none;
+border-radius: 6px;
+
+background: rgba(82, 195, 3, 0.15);
+}
+.card-h{
+    color: rgb(16, 16, 16);
+font-size: 28px;
+font-weight: 600;
+line-height: 33px;
+letter-spacing: 0%;
+text-align: center;
+margin: 17px 0px;
+}
+.card-p{
+    color: rgb(16, 16, 16);
+    opacity: 0.7;
+    margin: 17px 0px;
+font-size: 13px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+}
